@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Luke Hagan</string>
+	<key>Builder Version</key>
+	<string>7534.51.22</string>
+	<key>CFBundleDisplayName</key>
+	<string>SearchExclude</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.lukehagan.SearchExclude</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>script.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Remove eHow, Experts Exchange, and Yahoo! Answers from Google search results</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>*.google.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
