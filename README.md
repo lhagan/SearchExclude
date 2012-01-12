@@ -5,6 +5,7 @@ Hides Google search results that I find annoying and/or spammy. Currently exclud
 * Yahoo! Answers
 * eHow (.com & .co.uk)
 * Experts Exchange
+* Google+ People and Pages box
 
 **Coming Soon:** user-configurable blacklist
 
