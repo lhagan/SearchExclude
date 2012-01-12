@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Luke Hagan</string>
 	<key>Builder Version</key>
-	<string>7534.51.22</string>
+	<string>7534.52.7</string>
 	<key>CFBundleDisplayName</key>
 	<string>SearchExclude</string>
 	<key>CFBundleIdentifier</key>
@@ -27,6 +27,10 @@
 				<string>script.js</string>
 			</array>
 		</dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>style.css</string>
+		</array>
 	</dict>
 	<key>Description</key>
 	<string>Remove eHow, Experts Exchange, and Yahoo! Answers from Google search results</string>
