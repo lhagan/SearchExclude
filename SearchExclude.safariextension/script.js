@@ -1,4 +1,5 @@
 // SearchExclude.safariextension
+// by Luke Hagan <lukehagan.com>
 // created: 2011-12-31
 // released under the MIT license (see LICENSE.md for details)
 
