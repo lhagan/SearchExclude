@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Luke Hagan</string>
 	<key>Builder Version</key>
-	<string>7534.52.7</string>
+	<string>7536.10.3</string>
 	<key>CFBundleDisplayName</key>
 	<string>SearchExclude</string>
 	<key>CFBundleIdentifier</key>
@@ -43,6 +43,7 @@
 			<key>Allowed Domains</key>
 			<array>
 				<string>*.google.com</string>
+				<string>*.startpage.com</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
