@@ -1,4 +1,4 @@
 #rhs_block,
 #sponsored { 
-	display: none;
+	display: none !important;
 }
