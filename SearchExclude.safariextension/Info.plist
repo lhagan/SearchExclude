@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>Luke Hagan</string>
 	<key>Builder Version</key>
-	<string>7536.10.3</string>
+	<string>10600.6.3</string>
 	<key>CFBundleDisplayName</key>
 	<string>SearchExclude</string>
 	<key>CFBundleIdentifier</key>
@@ -34,6 +34,8 @@
 	</dict>
 	<key>Description</key>
 	<string>Remove eHow, Experts Exchange, and Yahoo! Answers from Google and Startpage search results</string>
+	<key>DeveloperIdentifier</key>
+	<string>3LK25HGXDC</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>

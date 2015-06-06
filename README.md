@@ -1,14 +1,12 @@
 # SearchExclude
 
-Hides [Google](http://google.com) and [StartPage](https://startpage.com) search results that I find annoying and/or spammy. Currently excluded are:
+Hides [Google](http://google.com) search results that I find annoying and/or spammy. Currently excluded are:
 
 * Yahoo! Answers
 * eHow (.com & .co.uk)
 * Experts Exchange
 * Google+ People and Pages box
-* StartPage sponsored links
-
-**Coming Soon:** user-configurable blacklist
+* W3Schools
 
 ## Download
 
